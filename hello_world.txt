@@ -1,2 +1,3 @@
-"Some text and more"
+
+Some text and more
 Commit it
